@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evancrow
-- 👀 I’m interested in Swift, iOS Development, Web-Design and Development
-- ⬇️ Download my app! https://apps.apple.com/us/app/nome-music-maps/id1529202939
-- 🤝 Connect with me on LinkedIn: https://www.linkedin.com/in/evan-crow/
+- 👀 I’m interested in Swift, iOS Development, Web Development, and UX Design
+- ⬇️ Download my app on the [Apple App Store](https://apps.apple.com/us/app/nome-music-maps/id1529202939)!
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/evan-crow/).
 - 📫 Reach me at evanwcrow@gmail.com 
 
 <!---
