@@ -1,4 +1,3 @@
-- Download my app on the [Apple App Store](https://apps.apple.com/us/app/nome-music-maps/id1529202939)!
 - Visit my portfolio at [evanwcrow.com](https://evanwcrow.com)
 - Reach me at evanwcrow@gmail.com 
 
